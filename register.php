@@ -1,5 +1,5 @@
 <?
-    include './includes/config.php';
+    include 'includes/config.php';
 
     if(isset($_POST['send'])) {
         $firstname = $_POST['firstname'];
